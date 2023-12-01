@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Kaer Huang homepage"
-description              : "I am a senior researcher at Lenovo Research. My research interest is computer vision, including detection, segmentation, tracking algorithms (MOT/MOTS/VIS/VOS/VOT/3D Tracking), visual foundation models, and deep generative models(Diffusion models and their application).
-I have several openings for self-motivated research interns on these topics, please feel free to drop me an e-mail( huangke1@lenovo.com)."
+description              : "I have several openings for self-motivated research interns on these topics, please feel free to drop me an e-mail( huangke1@lenovo.com)."
 repository               : "KaerHuang/KaerHuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Kaer(Carl) Huang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
