@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a senior researcher at Lenovo Research. My research interest is computer vision, including detection, segmentation, tracking algorithms (MOT/MOTS/VIS/VOS/VOT/3D Tracking), visual foundation models, and deep generative models(Diffusion models and their application).
+
 I have several openings for self-motivated research interns on these topics, please feel free to drop me an e-mail( huangke1@lenovo.com).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -26,27 +27,14 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.
 - *2022.02*: &nbsp;🎉🎉 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.  
-- *2022.02*: &nbsp;🎉🎉 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.  
-- *2022.02*: &nbsp;🎉🎉 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.  
-- *2022.02*: &nbsp;🎉🎉 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.   
-- *2022.02*: &nbsp;🎉🎉 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.  
-- *2022.02*: &nbsp;🎉🎉 We are the winner of CVPR2022 WAD BDD100K MOT Challenge. 
+- *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.  
+- *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K MOTS Challenge.  
+- *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K SSMOT Challenge.   
+- *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K SSMOTS Challenge.  
+- *2022.06*: &nbsp;🏆 We are the winner of CVPR2022 WAD BDD100K MOT Challenge. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
