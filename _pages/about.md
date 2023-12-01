@@ -25,6 +25,16 @@ I am a senior researcher at Lenovo Research. My research interest is computer vi
 
 
 # 🔥 News
+
+- *2023.11*: &nbsp;🏆 We are the winner of  MaCVi SeaDronesSee-MOT Challenge at WACV2024.
+- *2023.11*: &nbsp;🏆 We are the runner-up of  MaCVi BoaTrack Challenge at WACV2024 .
+- *2023.06*: &nbsp;🏆 We are the winner of Long Tail Tracking Challenge at CVPR2023.  
+- *2023.06*: &nbsp;🏆 We are the winner of Open World Tracking Challenge at CVPR2023. 
+- *2023.06*: &nbsp;🏆 We are the winner of Long Tail Tracking Challenge at CVPR2023.
+- *2023.06*: &nbsp;🏆 We are the winner of Long Tail Tracking Challenge at CVPR2023.  
+- *2023.06*: &nbsp;🏆 We are the winner of Open World Tracking Challenge at CVPR2023. 
+- *2023.06*: &nbsp;🏆 We are the runner-up of CVPR2023 WAD BDD100K MOT Challenge.   
+- *2023.06*: &nbsp;🏆 We are the winner of CVPR2023 WAD BDD100K MOTS Challenge.
 - *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K MOT Challenge.  
 - *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K MOTS Challenge.  
 - *2022.10*: &nbsp;🏆 We are the winner of ECCV2022 SSLAD BDD100K SSMOT Challenge.   
@@ -45,4 +55,3 @@ I am a senior researcher at Lenovo Research. My research interest is computer vi
 - Try to be a co-organizer of the Tracking Workshop at CVPR2024
 - the member of CAAI(Chinese Association for Artificial Intelligence)
 - the member of CCF(China Computer Federation)
-- the member of IEEE(Institute of Electrical and Electronics Engineers)
