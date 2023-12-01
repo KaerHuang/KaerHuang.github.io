@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Kaer Huang homepage"
-description              : "I have several openings for self-motivated research interns on these topics, please feel free to drop me an e-mail( huangke1@lenovo.com)."
+description              : ""
 repository               : "KaerHuang/KaerHuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaer(Carl) Huang"
   avatar           : "images/carl.png"
-  bio              : "Lorem ipsum College"
+  bio              : ""
   location         : "Beijing, China"
   employer         : "Lenovo Research"
   pubmed           : 
