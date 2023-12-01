@@ -34,7 +34,9 @@ I am a senior researcher at Lenovo Research. My research interest is computer vi
 
 
 # 💬 Invited Talks
-- *2022.10*, ECCV2022 SSLAD Tracking Section. 
+- *2023.06*, CVPR2023 Tracking W Invited speaker (Challenge section)
+- *2023.06*, CVPR2023 WAD Invited speaker (BDD section) \| [\[video\]](https://www.youtube.com/watch?v=BLMaacUEkxo&t=736s)
+- *2022.10*, ECCV2022 SSLAD Invited speaker (Tracking Challenge section) 
 - *2022.06*, CVPR2022 WAD Invited speaker (BDD section) \| [\[video\]](https://www.youtube.com/watch?v=13PjjBEgEcM&t=334s)
 
 
